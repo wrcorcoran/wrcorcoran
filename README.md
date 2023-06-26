@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm a second-year computer science student at the University of California--Santa Barbara. Originally, I'm from Burlington, Washington.  
+I'm a second-year computer science student at the University of California&mdashSanta Barbara. Originally, I'm from Burlington, Washington.  
 
 ##### Currently:
 🔭 Working as an intern at *Haggard Labs / Burgher Haggard* developing a financial aggregation app.  
