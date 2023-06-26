@@ -4,7 +4,7 @@ I'm a second-year computer science student at the University of California--Sant
 
 ##### Currently:
 🔭 Working as an intern at *Haggard Labs / Burgher Haggard* developing a financial aggregation app.  
-Also, building a personal website and an AI game (more details soon!).  
+&nbsp;&nbsp;&nbsp;&nbsp; Also, building a personal website and an AI game (more details soon!).  
 🌱 Learning about computation theory and quantum computing. Woohoo!   
 🤔 Interested in computability (both quantum and classical), cryptography, and digital finance.   
 
