@@ -1,14 +1,15 @@
 ### Hi there! 👋
 
-I'm a second-year computer science student at the University of California--Santa Barbara. 
+I'm a second-year computer science student at the University of California--Santa Barbara. Originally, I'm from Burlington, Washington. \
 
-Currently:
-🔭 Working as an intern at *Haggard Labs / Burgher Haggard* developing a financial aggregation app. Also, building a personal website and an AI game (more details soon!). 
-🌱 Learning about computation theory and quantum computing. Woohoo!
-🤔 Interested in computability (both quantum and classical), cryptography, and digital finance. 
+##### Currently: \
+🔭 Working as an intern at *Haggard Labs / Burgher Haggard* developing a financial aggregation app. Also, building a personal website and an AI game (more details soon!). \
+🌱 Learning about computation theory and quantum computing. Woohoo! \
+🤔 Interested in computability (both quantum and classical), cryptography, and digital finance. \
 
-📫 Email: wcorcoran@ucsb.edu 
-
+##### Contact Me: \ 
+📫 wcorcoran@ucsb.edu \ 
+📞 360-708-7616 \
 
 <!--
 **wrcorcoran/wrcorcoran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
