@@ -3,7 +3,7 @@
 ### About me:
 I'm a second-year computer science student at the University of California&mdash;Santa Barbara. Originally, I'm from Burlington, Washington.  
 
-I will graduate in the Spring of 2025 (as a junior). I will attend a Masters' program to further continue my computer science education and deeping my understanding for my interests. Location: *unknown*.
+I will graduate in the Spring of 2025 (as a junior). I will attend a Masters' program to continue my computer science education and deeping my understanding for my interests. Location: *unknown*.
 
 <!--
 ### Currently:
