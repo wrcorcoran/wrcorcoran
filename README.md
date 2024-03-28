@@ -34,7 +34,7 @@ Currently, I'm working in Dr. Ambuj K. Singh's DYNAMO lab under the support of U
 
 📞 360-708-7616 
 
-🌐 [wrcorcoran.github.io](wrcorcoran.github.io)
+🌐 [wrcorcoran.github.io](https://wrcorcoran.github.io/)
 
 <!--
 **wrcorcoran/wrcorcoran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
