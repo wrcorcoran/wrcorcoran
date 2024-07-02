@@ -1,9 +1,9 @@
 # Hi there! 👋
 
 ### About me:
-I'm a second-year computer science student at the University of California&mdash;Santa Barbara. Originally, I'm from Burlington, Washington.  
+I'm a third-year computer science student at the University of California&mdash;Santa Barbara. Originally, I'm from Burlington, Washington.  
 
-I will graduate in the Spring of 2025 (as a junior). I will attend a Masters' program to continue my computer science education and deeping my understanding for my interests. Location: *unknown*.
+I will graduate in the Spring of 2025 with my Bachelor of Science in Computer Science.
 
 <!--
 ### Currently:
@@ -14,27 +14,31 @@ I will graduate in the Spring of 2025 (as a junior). I will attend a Masters' pr
 ❤️‍🔥 My favorite languages are TypeScript, C++, and Python. I'm a big fan of Rust, but I don't use it as much as I'd like.
 -->
 
-### Research:
-Currently, I'm working in Dr. Ambuj K. Singh's DYNAMO lab under the support of UCSB's Early Research Scholars Program.
+### Research Work:
+- [Targeted Edge Perturbations on GNNs: Exploring Greedy, Heuristic, and Gradient-Driven Approaches](https://wrcorcoran.github.io/assets/pdf/ERSP_Presentation.pdf)
+- [GraphEval2000: Benchmarking and Improving Large Language Models on Graph Datasets](https://arxiv.org/abs/2406.16176)
 
 ### Interests:
-- Computational Complexity Theory
+- Randomized Algorithms
 - Graph Theory
-- General Machine Learning
 - Graph Neural Networks
 
 ### Currently Reading:
-- [The Power of Now by Eckhart Tolle](https://shop.eckharttolle.com/products/the-power-of-now)
+- [Counting, Sampling and Integrating: Algorithms and Complexity](https://www.amazon.com/Counting-Sampling-Integrating-Algorithms-Mathematics/dp/3764369469)
+- [The Probabilistic Method by Spencer and Alon](https://www.amazon.com/Probabilistic-Method-Discrete-Mathematics-Optimization-dp-1119061954/dp/1119061954/ref=dp_ob_title_bk)
 - [An Introduction to the Theory of Groups by Joseph J. Rotman](https://link.springer.com/book/10.1007/978-1-4612-4176-8)
 - [Graph Theory by J.A. Bondy and U.S.R. Murty](https://link.springer.com/book/9781846289699)
-- [Deep Learning by Ian Goodfellow](https://www.deeplearningbook.org/)
-
+  
 ### Contact Me:
 📫 wcorcoran@ucsb.edu  
 
 📞 360-708-7616 
 
 🌐 [wrcorcoran.github.io](https://wrcorcoran.github.io/)
+
+### My Links:
+- [Google Scholar](https://scholar.google.com/citations?user=ZmVqkdsAAAAJ&hl=en)
+- [LinkedIn](https://www.linkedin.com/in/wrcorcoran/)
 
 <!--
 **wrcorcoran/wrcorcoran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
