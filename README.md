@@ -3,7 +3,7 @@
 ### About me:
 I'm a third-year computer science student at the University of California&mdash;Santa Barbara. Originally, I'm from Burlington, Washington.  
 
-I will graduate in the Spring of 2025 with my Bachelor of Science in Computer Science.
+I will graduate in the Spring of 2025 with my Bachelor of Science in Computer Science. My Master of Science will follow in the Spring of 2026.
 
 <!--
 ### Currently:
