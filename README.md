@@ -25,9 +25,7 @@ I will graduate in the Spring of 2025 with my Bachelor of Science in Computer Sc
 
 ### Currently Reading:
 - [Counting, Sampling and Integrating: Algorithms and Complexity](https://www.amazon.com/Counting-Sampling-Integrating-Algorithms-Mathematics/dp/3764369469)
-- [The Probabilistic Method by Spencer and Alon](https://www.amazon.com/Probabilistic-Method-Discrete-Mathematics-Optimization-dp-1119061954/dp/1119061954/ref=dp_ob_title_bk)
-- [An Introduction to the Theory of Groups by Joseph J. Rotman](https://link.springer.com/book/10.1007/978-1-4612-4176-8)
-- [Graph Theory by J.A. Bondy and U.S.R. Murty](https://link.springer.com/book/9781846289699)
+- [Graph Representation Learning by William L. Hamilton](https://www.cs.mcgill.ca/~wlh/grl_book/)
   
 ### Contact Me:
 📫 wcorcoran@ucsb.edu  
