@@ -19,14 +19,15 @@ I will graduate in the Spring of 2025 with my Bachelor of Science in Computer Sc
 - [GraphEval2000: Benchmarking and Improving Large Language Models on Graph Datasets](https://arxiv.org/abs/2406.16176)
 
 ### Interests:
+- Graph Neural Networks
+- Graph Machine Learning
 - Randomized Algorithms
 - Graph Theory
-- Graph Neural Networks
 
 ### Currently Reading:
 - [Counting, Sampling and Integrating: Algorithms and Complexity](https://www.amazon.com/Counting-Sampling-Integrating-Algorithms-Mathematics/dp/3764369469)
 - [Graph Representation Learning by William L. Hamilton](https://www.cs.mcgill.ca/~wlh/grl_book/)
-  
+
 ### Contact Me:
 📫 wcorcoran@ucsb.edu  
 
