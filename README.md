@@ -1,9 +1,9 @@
 # Hi there! 👋
 
 ### About me:
-I'm a third-year computer science student at the University of California&mdash;Santa Barbara. Originally, I'm from Burlington, Washington.  
+I'm a BS/MS computer science student at the University of California&mdash;Santa Barbara with research interests in graph machine learning and randomized algorithms.
 
-I will graduate in the Spring of 2025 with my Bachelor of Science in Computer Science. My Master of Science will follow in the Spring of 2026.
+I've accepted an offer to be a Software Development Intern at Amazon Web Services in the Summer of 2025.
 
 <!--
 ### Currently:
