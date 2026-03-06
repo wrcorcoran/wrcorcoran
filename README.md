@@ -1,10 +1,12 @@
 # Hi there! 👋
 
 ### About me:
-I'm a BS/MS computer science student at the University of California&mdash;Santa Barbara with research interests in graph machine learning and randomized algorithms.
+I'm an MS computer science student at the University of California&mdash;Santa Barbara with research interests in graph machine learning and randomized algorithms.
 
+<!--
 I've accepted an offer to be a Software Development Intern at Amazon Web Services in the Summer of 2025.
-
+-->
+ 
 <!--
 ### Currently:
 🔭 Working as an intern at *Haggard Labs / Burgher Haggard* developing a financial aggregation app.   
@@ -14,6 +16,7 @@ I've accepted an offer to be a Software Development Intern at Amazon Web Service
 ❤️‍🔥 My favorite languages are TypeScript, C++, and Python. I'm a big fan of Rust, but I don't use it as much as I'd like.
 -->
 
+<!--
 ### Research Work:
 - [Targeted Edge Perturbations on GNNs: Exploring Greedy, Heuristic, and Gradient-Driven Approaches](https://wrcorcoran.github.io/assets/pdf/ERSP_Presentation.pdf)
 - [GraphEval2000: Benchmarking and Improving Large Language Models on Graph Datasets](https://arxiv.org/abs/2406.16176)
@@ -27,12 +30,10 @@ I've accepted an offer to be a Software Development Intern at Amazon Web Service
 ### Currently Reading:
 - [Counting, Sampling and Integrating: Algorithms and Complexity](https://www.amazon.com/Counting-Sampling-Integrating-Algorithms-Mathematics/dp/3764369469)
 - [Graph Representation Learning by William L. Hamilton](https://www.cs.mcgill.ca/~wlh/grl_book/)
+-->
 
 ### Contact Me:
 📫 wcorcoran@ucsb.edu  
-
-📞 360-708-7616 
-
 🌐 [wrcorcoran.github.io](https://wrcorcoran.github.io/)
 
 ### My Links:
