@@ -1,7 +1,7 @@
 # Hi there! 👋
 
 ### About me:
-I'm an MS computer science student at the University of California&mdash;Santa Barbara with research interests in graph machine learning and randomized algorithms.
+I'm an MS computer science student at the University of California&mdash;Santa Barbara with research interests in LLM inference, graph machine learning, and randomized algorithms.
 
 <!--
 I've accepted an offer to be a Software Development Intern at Amazon Web Services in the Summer of 2025.
@@ -33,7 +33,7 @@ I've accepted an offer to be a Software Development Intern at Amazon Web Service
 -->
 
 ### Contact Me:
-📫 wcorcoran@ucsb.edu  
+📫 willryancorcoran@gmail.com
 🌐 [wrcorcoran.github.io](https://wrcorcoran.github.io/)
 
 ### My Links:
