@@ -33,7 +33,7 @@ I've accepted an offer to be a Software Development Intern at Amazon Web Service
 -->
 
 ### Contact Me:
-📫 willryancorcoran@gmail.com 
+📫 willryancorcoran@gmail.com  
 🌐 [wrcorcoran.github.io](https://wrcorcoran.github.io/)
 
 ### My Links:
